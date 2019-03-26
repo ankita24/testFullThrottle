@@ -1,2 +1,0 @@
-# testFullThrottle
-Created with CodeSandbox
